@@ -49,7 +49,7 @@ export default function Signup() {
 
           <p>Sign up, and help people find out about your NGO's cases in need of support.</p>
 
-          <Link className="back-link" to="/signup">
+          <Link className="back-link" to="/">
             <FiArrowLeft size={16} color="#E02041" />
             Already a member? Log in
           </Link>
